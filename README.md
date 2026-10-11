@@ -61,22 +61,22 @@ Gmail Trigger → Filter Booking Emails → Extract Booking Details → Store Bo
 
 ## Screenshots
 
-1. Business Email → Telegram
+## Screenshots
 
+### Business Email and Telegram Notifications
+![Business Email and Telegram](business-email-telegram.jpg)
 
+### WhatsApp Booking Integration
+![LimeBooking WhatsApp Integration](limebooking-whatsapp.jpg)
 
-2. LimeBooking → WhatsApp
+### WhatsApp Notifications
+![WhatsApp Notification](whatsapp-notification.jpg)
 
+### Participant Count Validation – Check 1
+![Participant Count Check 1](participant-count-check-1.jpg)
 
-
-3. Participant Count Check
-
-
-
-4. WhatsApp Notification
-   
-
-5. Participant Count Check — Test
+### Participant Count Validation – Check 2
+![Participant Count Check 2](participant-count-check-2.jpg)
 
 
 
