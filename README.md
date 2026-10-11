@@ -72,12 +72,11 @@ Gmail Trigger → Filter Booking Emails → Extract Booking Details → Store Bo
 ### WhatsApp Notifications
 ![WhatsApp Notification](whatsapp-notification.jpg)
 
-### Participant Count Validation – Check 1
-![Participant Count Check 1](participant-count-check-1.jpg)
-
 ### Participant Count Validation – Check 2
 ![Participant Count Check 2](participant-count-check-2.jpg)
 
+### Participant Count Validation – Check 1
+![Participant Count Check 1](participant-count-check-1.jpg)
 
 
 Privacy note: This project was developed for a real business use case. All personal names, phone numbers, booking details, and other identifying information shown in the screenshots are fictional. No credentials, access tokens, or private client data are included in this repository.
