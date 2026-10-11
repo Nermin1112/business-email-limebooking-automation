@@ -61,8 +61,26 @@ Gmail Trigger → Filter Booking Emails → Extract Booking Details → Store Bo
 
 ## Screenshots
 
-Screenshots of the workflows and a sample WhatsApp notification will be added here.
+1. Business Email → Telegram
 
+
+
+2. LimeBooking → WhatsApp
+
+
+
+3. Participant Count Check
+
+
+
+4. WhatsApp Notification
+   
+
+5. Participant Count Check — Test
+
+
+
+Privacy note: This project was developed for a real business use case. All personal names, phone numbers, booking details, and other identifying information shown in the screenshots are fictional. No credentials, access tokens, or private client data are included in this repository.
 **Note:** All personal names, phone numbers, booking details, and other identifying information shown in the examples are fictional and used for demonstration. No credentials, access tokens, or private client data are included in this repository.
 
 ## Project Context
